@@ -8,6 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-aSRJvcJczw
 - Live Site URL: https://kilekunnod.github.io/frontend-mentor-blog-preview-card/
 
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
